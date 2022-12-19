@@ -1,7 +1,8 @@
 ---
 categories:
   - "test automation"
-tags: []
+tags:
+  - "puppeteer"
 description: "What is Selenium? What is Puppeteer?"
 ID: "63aa5e8a-68bf-4001-a232-10c5156768d5"
 title: "Puppeteer vs Selenium"
