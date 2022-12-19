@@ -1,13 +1,6 @@
 [
   {
-    "links": [
-      {
-        "createdAt": 1649455085362,
-        "ID": "8fd5c092-2297-4aae-aeec-250b197f80bc",
-        "url": "https://contentrain.io/product/why",
-        "label": "Product"
-      }
-    ],
+    "links": [],
     "createdAt": 1649455010602,
     "ID": "6831f4bd-d4d2-485c-adf4-fe0863fd1168"
   }
