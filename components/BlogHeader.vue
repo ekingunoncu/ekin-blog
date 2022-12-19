@@ -2,7 +2,7 @@
   <header>
     <div
       v-if="headerData"
-      class="w-full flex justify-between items-center py-4"
+      class="w-full flex justify-around items-center py-4"
     >
       <div class="logo-container">
         <nuxt-link to="/">
