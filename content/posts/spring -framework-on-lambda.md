@@ -8,6 +8,7 @@ categories:
   - "cms"
 tags:
   - "lambda"
+  - "spring"
 slug: "spring -framework-on-lambda"
 author:
   updatedAt: 1671474756018
