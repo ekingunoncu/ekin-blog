@@ -10,12 +10,12 @@ tags:
   - "design"
 slug: "spring -framework-on-lambda"
 author:
-  updatedAt: 1649418916957
+  updatedAt: 1671474756018
   createdAt: 1649356758106
   ID: "efa1af93-736f-4723-9a25-afb9c4010c5a"
-  displayName: "Bayhan BAYRAMOĞLU"
-  avatarImage: "public/1649356756618_1634587076141.jpeg"
-  role: "development"
+  displayName: "Ekin Gün Öncü"
+  avatarImage: "public/1671474736731_ekin.png"
+  role: "Software Engineer at Scalefocus, Oracle Certified Java Developer, AWS Certified Developer"
 coverImage: "public/1671474486210_lambda_spring.jpg"
 
 ---
