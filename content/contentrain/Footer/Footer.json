@@ -2,12 +2,6 @@
   {
     "links": [
       {
-        "createdAt": 1649455065777,
-        "ID": "f77b02d4-ee0f-4a17-bb54-cf787e8e5485",
-        "url": "https://contentrain.io/docs",
-        "label": "User Guide"
-      },
-      {
         "createdAt": 1649455085362,
         "ID": "8fd5c092-2297-4aae-aeec-250b197f80bc",
         "url": "https://contentrain.io/product/why",
