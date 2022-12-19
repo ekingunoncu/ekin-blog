@@ -5,7 +5,7 @@ ID: "36de95b9-5632-4879-b996-50aff9ce9857"
 title: "Spring Framework On Lambda (Without Spring Boot)"
 description: "Spring Framework On Lambda (Without Spring Boot)\nIOC on lambda"
 categories:
-  - "cms"
+  - "cloud"
 tags:
   - "lambda"
   - "spring"
