@@ -1,5 +1,5 @@
 ---
-updatedAt: 1671474490228
+updatedAt: 1671475018153
 createdAt: 1649356548494
 ID: "36de95b9-5632-4879-b996-50aff9ce9857"
 title: "Spring Framework On Lambda (Without Spring Boot)"
@@ -20,10 +20,7 @@ author:
 coverImage: "public/1671474486210_lambda_spring.jpg"
 
 ---
-# Spring Framework On Lambda (Without Spring Boot) | by Ekin Gün Öncü | Nov, 2022 | Medium
-
-Created: December 19, 2022 8:34 PM
-URL: https://medium.com/@ekingunoncu/spring-framework-on-lambda-without-spring-boot-70b6726b33c
+# Spring Framework On Lambda (Without Spring Boot)
 
 ![Spring Framework On Lambda (Without Spring Boot](https://s3.eu-central-1.amazonaws.com/1ek.in.images/lambda_spring.jpg)
 
