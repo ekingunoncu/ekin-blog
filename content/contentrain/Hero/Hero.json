@@ -1,9 +1,10 @@
 [
-    {
-      "createdAt": 1649455167634,
-      "ID": "6410b55e-d1b4-46c6-a196-d989911311ee",
-      "title": "Our Blogposts about ecosystems and related topics",
-      "subtitle": "Contentrain NuxtJS Blog Starter Kit",
-      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam fugiat molestias autem, magni vel porro facere. Quae laboriosam tempora ipsum eveniet recusandae alias ipsam, ipsa vero molestias! Aperiam, alias fugiat?"
-    }
-  ]
+  {
+    "createdAt": 1649455167634,
+    "ID": "6410b55e-d1b4-46c6-a196-d989911311ee",
+    "title": "Ekin Gün Öncü",
+    "subtitle": "Software Engineer at Scalefocus, Oracle Certified Java Developer, AWS Certified Developer",
+    "description": "An enthusiastic software developer and a lifelong learner.",
+    "updatedAt": 1671475217817
+  }
+]
