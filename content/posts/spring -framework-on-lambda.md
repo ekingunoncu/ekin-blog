@@ -7,7 +7,7 @@ description: "Spring Framework On Lambda (Without Spring Boot)\nIOC on lambda"
 categories:
   - "cms"
 tags:
-  - "design"
+  - "lambda"
 slug: "spring -framework-on-lambda"
 author:
   updatedAt: 1671474756018
