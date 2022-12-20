@@ -4,6 +4,7 @@ slug: "spring_reactive_elasticsearch"
 title: "Spring Reactive Elasticsearch"
 tags:
   - "spring"
+  - "elasticsearch"
 categories: []
 ID: "60df9ff9-3d90-4c91-88e9-5c05ee658f89"
 author: []
