@@ -8,7 +8,12 @@ tags:
 categories:
   - "spring"
 ID: "60df9ff9-3d90-4c91-88e9-5c05ee658f89"
-author: []
+author:
+  ID: "94011b58-6146-44b1-89f7-6e10033eeb11"
+  displayName: "Ekin Gün Öncü"
+  avatarImage: ""
+  role: "Software Engineer"
+  createdAt: 1671537670766
 coverImage: "public/1671537413864_background.jpeg"
 createdAt: 1671537420515
 
