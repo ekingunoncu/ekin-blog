@@ -46,6 +46,6 @@ jobs:
         run: |
           node sitemap-generator.js  
           mv sitemap.xml dist/sitemap.xml 
-          aws s3 sync dist s3://1ek.in    
+          aws s3 sync .output/public s3://1ek.in    
           aws cloudfront create-invalidation --distribution-id EMKTZKCPDHTDL --paths "/*"
           curl http://www.google.com/ping?sitemap=https://1ek.in/sitemap.xml
