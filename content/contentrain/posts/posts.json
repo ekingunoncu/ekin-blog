@@ -37,13 +37,7 @@
     "ID": "63aa5e8a-68bf-4001-a232-10c5156768d5",
     "title": "Puppeteer vs Selenium",
     "slug": "puppeteer_vs_selenium",
-    "author": {
-      "ID": "8a63fa7e-673f-45f8-a83e-6cd63d9ee657",
-      "displayName": "Ekin Gün Öncü",
-      "avatarImage": "public/1671478634577_ekin.png",
-      "role": "Software Engineer",
-      "createdAt": 1671478638234
-    },
+    "author": {},
     "coverImage": "public/1671478055740_puppeteer_vs_se.png",
     "createdAt": 1671478091076
   },
