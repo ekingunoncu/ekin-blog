@@ -63,9 +63,10 @@
     "author": {
       "ID": "94011b58-6146-44b1-89f7-6e10033eeb11",
       "displayName": "Ekin Gün Öncü",
-      "avatarImage": "",
+      "avatarImage": "public/1671475381803_ekin.png",
       "role": "Software Engineer",
-      "createdAt": 1671537670766
+      "createdAt": 1671537670766,
+      "updatedAt": 1671537920249
     },
     "coverImage": "public/1671537413864_background.jpeg",
     "createdAt": 1671537420515
