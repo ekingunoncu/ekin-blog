@@ -13,6 +13,7 @@
     "nuxt": "3.0.0-rc.4"
   },
   "dependencies": {
+    "@nuxtjs/sitemap": "^2.4.0",
     "remixicon": "^2.5.0",
     "serve": "^13.0.2"
   }
