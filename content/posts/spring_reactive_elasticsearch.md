@@ -2,7 +2,8 @@
 description: "Hey there! I and my team use Elasticsearch in our project but we implemented it a long time ago. I was wondering what’s new with Spring and Elasticsearch."
 slug: "spring_reactive_elasticsearch"
 title: "Spring Reactive Elasticsearch"
-tags: []
+tags:
+  - "spring"
 categories: []
 ID: "60df9ff9-3d90-4c91-88e9-5c05ee658f89"
 author: []
