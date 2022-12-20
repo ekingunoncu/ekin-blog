@@ -9,11 +9,11 @@ ID: "63aa5e8a-68bf-4001-a232-10c5156768d5"
 title: "Puppeteer vs Selenium"
 slug: "puppeteer_vs_selenium"
 author:
-  ID: "8a63fa7e-673f-45f8-a83e-6cd63d9ee657"
+  ID: "e2c11e65-bef3-495a-a2e2-302f40527616"
   displayName: "Ekin Gün Öncü"
-  avatarImage: "public/1671478634577_ekin.png"
+  avatarImage: "public/1671475381803_ekin.png"
   role: "Software Engineer"
-  createdAt: 1671478638234
+  createdAt: 1671537907416
 coverImage: "public/1671478055740_puppeteer_vs_se.png"
 createdAt: 1671478091076
 
