@@ -12,6 +12,12 @@
         "url": "https://github.com/ekingunoncu",
         "label": "Github",
         "createdAt": 1671615202695
+      },
+      {
+        "ID": "94de433f-7f79-4798-ac89-28c3bde5ee10",
+        "url": "https://medium.com/@ekingunoncu",
+        "label": "Medium",
+        "createdAt": 1671615217135
       }
     ],
     "createdAt": 1649455010602,
