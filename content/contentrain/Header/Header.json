@@ -3,14 +3,7 @@
     "createdAt": 1649454764941,
     "ID": "f8b185c1-76ca-4246-945b-3d37843d53dd",
     "logo": "public/1671473556682_logo.gif",
-    "socialIcons": [
-      {
-        "ID": "5abe3fdd-6cdd-4fae-abf1-cf7c9f951817",
-        "url": "https://medium.com/@ekingunoncu",
-        "iconName": "ri-medium-line",
-        "createdAt": 1671540129215
-      }
-    ],
+    "socialIcons": [],
     "updatedAt": 1671473558213
   }
 ]
