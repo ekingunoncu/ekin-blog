@@ -5,13 +5,6 @@
     "logo": "public/1671473556682_logo.gif",
     "socialIcons": [
       {
-        "createdAt": 1656421072139,
-        "ID": "6b81a843-4800-4348-9ed4-289ed5814542",
-        "url": "https://github.com/ekingunoncu",
-        "iconName": "ri-github-line",
-        "updatedAt": 1671475160481
-      },
-      {
         "ID": "5abe3fdd-6cdd-4fae-abf1-cf7c9f951817",
         "url": "https://medium.com/@ekingunoncu",
         "iconName": "ri-medium-line",
