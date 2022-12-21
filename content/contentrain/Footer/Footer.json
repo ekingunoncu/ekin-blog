@@ -6,6 +6,12 @@
         "url": "https://www.linkedin.com/in/ekingunoncu",
         "label": "Linkedin",
         "createdAt": 1671615179228
+      },
+      {
+        "ID": "6f5f3a10-9a06-4763-9f31-0c8e9228e487",
+        "url": "https://github.com/ekingunoncu",
+        "label": "Github",
+        "createdAt": 1671615202695
       }
     ],
     "createdAt": 1649455010602,
