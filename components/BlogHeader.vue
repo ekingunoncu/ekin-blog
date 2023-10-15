@@ -2,11 +2,12 @@
   <header>
     <div
       v-if="headerData"
-      class="w-full flex justify-around items-center py-4"
+      class="w-full flex justify-center items-center py-4"
     >
       <div class="logo-container">
         <nuxt-link to="/">
           <img
+            style="border-radius: 50%"
             class="w-48 h-auto"
             :src="headerData.logo.split('public')[1]"
             alt="App Icon"
